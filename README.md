@@ -9,4 +9,5 @@ This project examines the relationship between the U.S. Treasury yield curve and
 
 ## 3. Research Reference
 https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci2-7.pdf
+
 Estrella, A., & Mishkin, F. S. (1996). *The Yield Curve as a Predictor of U.S. Recessions.* Federal Reserve Bank of New York.
